@@ -1,0 +1,26 @@
+{
+  "schema": "flop_new_github_agent_creation_v1",
+  "wave_id": "20260923T151814Z",
+  "created_at": "2026-09-23T15:19:59.459212+00:00",
+  "agent": "ArthurLeaf",
+  "slug": "arthurleaf",
+  "did": "did:key:z6MknfuEnzrYrHJ7djttMXTMAAxCRuusUyd49mDjGh5uWcLB",
+  "relay_profile": "account-079",
+  "github_repo": "https://github.com/masonsrefuser6/flop-arthurleaf",
+  "github_login": "masonsrefuser6",
+  "repo_created_now": true,
+  "technocore_did_note": {
+    "namespace": "did-eb",
+    "key": "b0562b8334c9dc",
+    "status": 200,
+    "value_sha256": "18ecdc40581b721251e6922c94a474dd6f8ee4bad439cd1790aab77cea940bb7"
+  },
+  "owned_room_receipt": "/opt/data/work/flop/agents/arthurleaf/receipts/public/owned-room-20260923T151814Z.json",
+  "external_activation": null,
+  "actions_not_performed": [
+    "no X/Twitter binding",
+    "no wallet transaction",
+    "no value movement"
+  ],
+  "secret_material_recorded": false
+}
